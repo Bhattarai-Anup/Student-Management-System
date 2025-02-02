@@ -60,6 +60,6 @@ We welcome contributions from the community to enhance the Student Management Sy
 ## Contact:
 
 
-For inquiries or assistance, please reach out to us at [contact.info.inquiries@gmail.com](mailto:contact.info.inquiries@gmail.com).
+For inquiries or assistance, please reach out to us at [er.anup.bhattarai@gmail.com](mailto:er.anup.bhattarai@gmail.com).
 
 Happy Managing! 📚✨
